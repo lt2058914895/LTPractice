@@ -7,6 +7,10 @@ target 'LTPractice' do
 
   # Pods for LTPractice
   pod 'SnapKit'
+  pod 'Masonry', '~> 1.1.0'
+  pod 'ReactiveCocoa'
+  pod 'RxSwift'
+  pod 'RxCocoa'
 
   target 'LTPracticeTests' do
     inherit! :search_paths

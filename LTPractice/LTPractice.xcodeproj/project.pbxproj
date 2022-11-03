@@ -8,6 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		5A7E452CFECF043A4EAE80C5 /* Pods_LTPractice.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DFAD8A424DF542AC05C0C08E /* Pods_LTPractice.framework */; };
+		69327D2A290BE0F4005B42DD /* ListPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69327D29290BE0F4005B42DD /* ListPractice.swift */; };
+		69327D2C290BE19A005B42DD /* Algorithm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69327D2B290BE19A005B42DD /* Algorithm.swift */; };
+		69327D2E29111B82005B42DD /* AnimatonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69327D2D29111B82005B42DD /* AnimatonViewController.swift */; };
+		69327D552912BF90005B42DD /* Multithread.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69327D542912BF90005B42DD /* Multithread.swift */; };
 		699AF34E28F6A0E100E3D466 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 699AF34D28F6A0E100E3D466 /* AppDelegate.swift */; };
 		699AF35028F6A0E100E3D466 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 699AF34F28F6A0E100E3D466 /* SceneDelegate.swift */; };
 		699AF35228F6A0E100E3D466 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 699AF35128F6A0E100E3D466 /* ViewController.swift */; };
@@ -18,6 +22,10 @@
 		699AF36828F6A0E300E3D466 /* LTPracticeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 699AF36728F6A0E300E3D466 /* LTPracticeTests.swift */; };
 		699AF37228F6A0E300E3D466 /* LTPracticeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 699AF37128F6A0E300E3D466 /* LTPracticeUITests.swift */; };
 		699AF37428F6A0E300E3D466 /* LTPracticeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 699AF37328F6A0E300E3D466 /* LTPracticeUITestsLaunchTests.swift */; };
+		699AF38328F6A60200E3D466 /* OCViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 699AF38228F6A60200E3D466 /* OCViewController.m */; };
+		699AF38A28FA91C900E3D466 /* BlockViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 699AF38928FA91C900E3D466 /* BlockViewController.swift */; };
+		699AF38D28FACF4700E3D466 /* OCBlockViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 699AF38C28FACF4700E3D466 /* OCBlockViewController.m */; };
+		699B60F1290645ED0052F6DA /* PracticeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 699B60F0290645ED0052F6DA /* PracticeViewController.swift */; };
 		C6A6FE9E7FA5DB24EF1A28FE /* Pods_LTPracticeTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 169E96012B2A46DA4519BF5F /* Pods_LTPracticeTests.framework */; };
 		F52D229DF1F68C646D7F7708 /* Pods_LTPractice_LTPracticeUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 829F02A71DA5838153AFBB09 /* Pods_LTPractice_LTPracticeUITests.framework */; };
 /* End PBXBuildFile section */
@@ -44,6 +52,10 @@
 		212860C696598F9EABCEBA4C /* Pods-LTPractice-LTPracticeUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LTPractice-LTPracticeUITests.debug.xcconfig"; path = "Target Support Files/Pods-LTPractice-LTPracticeUITests/Pods-LTPractice-LTPracticeUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		2D3451C6F094980D344919AB /* Pods-LTPractice.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LTPractice.debug.xcconfig"; path = "Target Support Files/Pods-LTPractice/Pods-LTPractice.debug.xcconfig"; sourceTree = "<group>"; };
 		63D11DDF5622DB58BEA7CD12 /* Pods-LTPractice-LTPracticeUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LTPractice-LTPracticeUITests.release.xcconfig"; path = "Target Support Files/Pods-LTPractice-LTPracticeUITests/Pods-LTPractice-LTPracticeUITests.release.xcconfig"; sourceTree = "<group>"; };
+		69327D29290BE0F4005B42DD /* ListPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListPractice.swift; sourceTree = "<group>"; };
+		69327D2B290BE19A005B42DD /* Algorithm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Algorithm.swift; sourceTree = "<group>"; };
+		69327D2D29111B82005B42DD /* AnimatonViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatonViewController.swift; sourceTree = "<group>"; };
+		69327D542912BF90005B42DD /* Multithread.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Multithread.swift; sourceTree = "<group>"; };
 		699AF34A28F6A0E100E3D466 /* LTPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LTPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		699AF34D28F6A0E100E3D466 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		699AF34F28F6A0E100E3D466 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -58,6 +70,13 @@
 		699AF36D28F6A0E300E3D466 /* LTPracticeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LTPracticeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		699AF37128F6A0E300E3D466 /* LTPracticeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LTPracticeUITests.swift; sourceTree = "<group>"; };
 		699AF37328F6A0E300E3D466 /* LTPracticeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LTPracticeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		699AF38028F6A60100E3D466 /* LTPractice-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "LTPractice-Bridging-Header.h"; sourceTree = "<group>"; };
+		699AF38128F6A60200E3D466 /* OCViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OCViewController.h; sourceTree = "<group>"; };
+		699AF38228F6A60200E3D466 /* OCViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OCViewController.m; sourceTree = "<group>"; };
+		699AF38928FA91C900E3D466 /* BlockViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlockViewController.swift; sourceTree = "<group>"; };
+		699AF38B28FACF4700E3D466 /* OCBlockViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OCBlockViewController.h; sourceTree = "<group>"; };
+		699AF38C28FACF4700E3D466 /* OCBlockViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OCBlockViewController.m; sourceTree = "<group>"; };
+		699B60F0290645ED0052F6DA /* PracticeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeViewController.swift; sourceTree = "<group>"; };
 		829F02A71DA5838153AFBB09 /* Pods_LTPractice_LTPracticeUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LTPractice_LTPracticeUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8410AE7E86577EDB75204DB1 /* Pods-LTPracticeTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LTPracticeTests.release.xcconfig"; path = "Target Support Files/Pods-LTPracticeTests/Pods-LTPracticeTests.release.xcconfig"; sourceTree = "<group>"; };
 		AEC7EAC129060CBB4AB015C9 /* Pods-LTPractice.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LTPractice.release.xcconfig"; path = "Target Support Files/Pods-LTPractice/Pods-LTPractice.release.xcconfig"; sourceTree = "<group>"; };
@@ -128,6 +147,8 @@
 		699AF34C28F6A0E100E3D466 /* LTPractice */ = {
 			isa = PBXGroup;
 			children = (
+				699AF38528FA904A00E3D466 /* Swift */,
+				699AF38428FA903500E3D466 /* OC */,
 				699AF34D28F6A0E100E3D466 /* AppDelegate.swift */,
 				699AF34F28F6A0E100E3D466 /* SceneDelegate.swift */,
 				699AF35128F6A0E100E3D466 /* ViewController.swift */,
@@ -136,6 +157,7 @@
 				699AF35B28F6A0E300E3D466 /* LaunchScreen.storyboard */,
 				699AF35E28F6A0E300E3D466 /* Info.plist */,
 				699AF35628F6A0E100E3D466 /* LTPractice.xcdatamodeld */,
+				699AF38028F6A60100E3D466 /* LTPractice-Bridging-Header.h */,
 			);
 			path = LTPractice;
 			sourceTree = "<group>";
@@ -157,6 +179,30 @@
 			path = LTPracticeUITests;
 			sourceTree = "<group>";
 		};
+		699AF38428FA903500E3D466 /* OC */ = {
+			isa = PBXGroup;
+			children = (
+				699AF38128F6A60200E3D466 /* OCViewController.h */,
+				699AF38228F6A60200E3D466 /* OCViewController.m */,
+				699AF38B28FACF4700E3D466 /* OCBlockViewController.h */,
+				699AF38C28FACF4700E3D466 /* OCBlockViewController.m */,
+			);
+			path = OC;
+			sourceTree = "<group>";
+		};
+		699AF38528FA904A00E3D466 /* Swift */ = {
+			isa = PBXGroup;
+			children = (
+				699AF38928FA91C900E3D466 /* BlockViewController.swift */,
+				699B60F0290645ED0052F6DA /* PracticeViewController.swift */,
+				69327D29290BE0F4005B42DD /* ListPractice.swift */,
+				69327D2B290BE19A005B42DD /* Algorithm.swift */,
+				69327D2D29111B82005B42DD /* AnimatonViewController.swift */,
+				69327D542912BF90005B42DD /* Multithread.swift */,
+			);
+			path = Swift;
+			sourceTree = "<group>";
+		};
 		9E257AB3E5AEDAFCE9B3A3CC /* Pods */ = {
 			isa = PBXGroup;
 			children = (
@@ -167,7 +213,6 @@
 				B648417AA9BC8EE8F303F888 /* Pods-LTPracticeTests.debug.xcconfig */,
 				8410AE7E86577EDB75204DB1 /* Pods-LTPracticeTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -244,6 +289,7 @@
 				TargetAttributes = {
 					699AF34928F6A0E100E3D466 = {
 						CreatedOnToolsVersion = 13.2.1;
+						LastSwiftMigration = 1320;
 					};
 					699AF36228F6A0E300E3D466 = {
 						CreatedOnToolsVersion = 13.2.1;
@@ -411,9 +457,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				699AF35228F6A0E100E3D466 /* ViewController.swift in Sources */,
+				699B60F1290645ED0052F6DA /* PracticeViewController.swift in Sources */,
+				69327D2E29111B82005B42DD /* AnimatonViewController.swift in Sources */,
+				699AF38328F6A60200E3D466 /* OCViewController.m in Sources */,
+				69327D2A290BE0F4005B42DD /* ListPractice.swift in Sources */,
+				699AF38A28FA91C900E3D466 /* BlockViewController.swift in Sources */,
+				699AF38D28FACF4700E3D466 /* OCBlockViewController.m in Sources */,
+				69327D552912BF90005B42DD /* Multithread.swift in Sources */,
 				699AF34E28F6A0E100E3D466 /* AppDelegate.swift in Sources */,
 				699AF35828F6A0E100E3D466 /* LTPractice.xcdatamodeld in Sources */,
 				699AF35028F6A0E100E3D466 /* SceneDelegate.swift in Sources */,
+				69327D2C290BE19A005B42DD /* Algorithm.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -591,6 +645,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -600,6 +655,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -608,6 +664,8 @@
 				PRODUCT_BUNDLE_IDENTIFIER = me.LTPractice;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "LTPractice/LTPractice-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -619,6 +677,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -628,6 +687,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -636,6 +696,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = me.LTPractice;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "LTPractice/LTPractice-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};

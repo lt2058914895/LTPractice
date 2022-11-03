@@ -1,16 +1,42 @@
 PODS:
+  - Masonry (1.1.0)
+  - ReactiveCocoa (11.2.2):
+    - ReactiveSwift (~> 6.6)
+  - ReactiveSwift (6.7.0)
+  - RxCocoa (6.5.0):
+    - RxRelay (= 6.5.0)
+    - RxSwift (= 6.5.0)
+  - RxRelay (6.5.0):
+    - RxSwift (= 6.5.0)
+  - RxSwift (6.5.0)
   - SnapKit (5.6.0)
 
 DEPENDENCIES:
+  - Masonry (~> 1.1.0)
+  - ReactiveCocoa
+  - RxCocoa
+  - RxSwift
   - SnapKit
 
 SPEC REPOS:
   trunk:
+    - Masonry
+    - ReactiveCocoa
+    - ReactiveSwift
+    - RxCocoa
+    - RxRelay
+    - RxSwift
     - SnapKit
 
 SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  ReactiveCocoa: e539cd41c523c8c80851b88e9723235c933b024b
+  ReactiveSwift: 208201d6ecc9734196d147aa76bc1f24b1b821fe
+  RxCocoa: 94f817b71c07517321eb4f9ad299112ca8af743b
+  RxRelay: 1de1523e604c72b6c68feadedd1af3b1b4d0ecbd
+  RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
   SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
 
-PODFILE CHECKSUM: 7e6234c69c7007349f1d7144fc06b72aee9d3f63
+PODFILE CHECKSUM: 6aab50464e7638d0d192a63ce6bc51c64308d4fb
 
 COCOAPODS: 1.11.3
